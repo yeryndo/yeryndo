@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yeryndo
 - 👀 I’m interested in Frontend Development, Web App Development, Full Stack Development
-- 🌱 I’m currently learning React and AWS!
-- 📫 How to reach me: ydo2@villanova.edu
+- 🌱 I’m currently learning system design principles!
+- 📫 How to reach me: rina.ydo99@gmail.com
 
 <!---
 yeryndo/yeryndo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
